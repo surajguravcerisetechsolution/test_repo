@@ -1,7 +1,7 @@
 <template>
   <div class="home">
     <img alt="Vue logo" src="../assets/logo.png">
-    <HelloWorld msg="Welcome to CTS Suraj"/>
+    <HelloWorld msg="Welcome to Cerisetech Solutions"/>
   </div>
 </template>
 
